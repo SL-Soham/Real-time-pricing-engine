@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-CUDA%20Accelerated-orange.svg)
 ![PyArrow](https://img.shields.io/badge/PyArrow-Zero%20Copy-green.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 ## 📌 Project Overview
 
